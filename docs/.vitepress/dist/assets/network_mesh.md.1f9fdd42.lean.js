@@ -1,0 +1,1 @@
+import{_ as A,o as v,c as g,V as s}from"./chunks/framework.7ae304b1.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"network/mesh.md","filePath":"network/mesh.md"}'),a={name:"network/mesh.md"},B=s("",38),l=[B];function t(r,f,W,e,Y,w){return v(),g("div",null,l)}const u=A(a,[["render",t]]);export{d as __pageData,u as default};
